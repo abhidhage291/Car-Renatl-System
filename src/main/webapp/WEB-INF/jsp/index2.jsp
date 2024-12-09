@@ -116,10 +116,8 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="bookingDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Booking</a>
                     <div class="dropdown-menu" aria-labelledby="bookingDropdown">
-                        <a class="dropdown-item" href="/">New Booking</a>
-                        <a class="dropdown-item" href="/">Booking Update</a>
-                        <a class="dropdown-item" href="/">Cancellation</a>
-                        <a class="dropdown-item" href="/">Booking Report</a>
+                        <a href="/customerCarReport">New Booking</a>
+                        <a href="/bookingReport">Booking Reports</a>
                     </div>
                 </li>
             </ul>
